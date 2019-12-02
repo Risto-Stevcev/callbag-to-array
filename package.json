@@ -1,0 +1,17 @@
+{
+  "name": "callbag-to-array",
+  "version": "1.0.0",
+  "description": "Convert a synchronous pullable source into an array",
+  "main": "index.js",
+  "repository": "https://github.com/Risto-Stevcev/callbag-to-array",
+  "author": "Risto Stevcev <me@risto.codes>",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "callbag-to-iterable": "^1.0.0"
+  },
+  "devDependencies": {
+    "callbag-basics": "^3.2.0",
+    "chai": "^4.2.0",
+    "mocha": "^6.2.2"
+  }
+}
